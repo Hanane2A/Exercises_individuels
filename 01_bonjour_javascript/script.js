@@ -29,8 +29,8 @@ function sayHello(firstname , hour){
 
 }
 
-let beyonce = "Beyonce"
+let nom = "Beyonce"
 
-sayHello(`Beyonce`, 11);
+sayHello(`nom`, 11);
 sayHello(`Beyonce`, 18);
 sayHello(`Beyonce`, 17);
