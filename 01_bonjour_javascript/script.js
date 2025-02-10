@@ -1,5 +1,5 @@
-prompt()
-let firstname = "Beyonce";
+
+let firstname = prompt();
 
 function sayHello (firstname , hour){
     
@@ -13,7 +13,6 @@ function sayHello (firstname , hour){
  
 }
 
- sayHello("Beyonce" , 11);
- sayHello("Beyonce" , 18);
- sayHello("Beyonce" , 17);
+ sayHello(firstname , 11);
+ 
 
